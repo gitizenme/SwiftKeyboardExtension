@@ -1,7 +1,5 @@
 # iOS 8 Swift Custom Keyboard Extension Template
 
-Inspired by https://github.com/bjhstudios/iOSCustomKeyboard
-
 Written in Swift and using storyboards and autolayout, this universal keyboard template is a complete starter kit for anyone looking to create a custom keyboard. All basic keys have been created, and the keyboard is switchable between number and symbol modes in the same manner as the system keyboard.
 
 ## Features
